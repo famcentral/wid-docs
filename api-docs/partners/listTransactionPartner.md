@@ -1,4 +1,4 @@
-# Thông tin chi tiết của feed 
+# Thông tin lịch sử giao dịch wid FAM3 
 
 **URL** : `https://api.w3w.link/api/public/transactions/list-transaction-partner?pageSize=10&pageIndex=1&partnerCode=Onus`
 
