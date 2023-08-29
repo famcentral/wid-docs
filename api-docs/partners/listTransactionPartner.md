@@ -52,7 +52,33 @@
             "note": null,
             "merchantName": "F Coffee & Tea",
             "programName": "Free upsize",
-            "storeName": "15 Hoa Phuong branch"
+            "storeName": "15 Hoa Phuong branch",
+            "program": {
+                "id": "f69a89fe-4d3e-4f88-b3c2-aac5b2c5c1b7",
+                "createdDate": "2023-05-25T04:37:47.239844",
+                "updatedDate": "2023-08-01T04:46:25.636315",
+                "createdBy": null,
+                "updatedBy": null,
+                "version": 38,
+                "merchantId": "ca2c3a63-55d4-4853-948e-dceba0875f00",
+                "name": "Free upsize",
+                "code": "21493906CB41496E96B938C4730C6E94",
+                "w3wTiers": [
+                    4,
+                    3
+                ],
+                "merchantTiers": [
+                    "94bbcc25-a160-4b95-89e3-fec2dcd7a0a9"
+                ],
+                "programType": "TYPE03",
+                "desc": "<p>[Vietnamese below] F Coffee &amp; Tea offers a special promotion for our valued customers:</p><p>\"Free upsize\" which increases the cup size without changing the price.</p><p><strong>Conditions of the promotion:</strong></p><p>Applicable products/services: the entire menu at F Coffee &amp; Tea.</p><p>This promotion is available for customers who own the Tier - Beginner of the Hunting Web3 Treasure campaign.</p><p>Promotion period: From June 10th to July 30th, 2023.</p><p>Promotion location: 15 Hoa Phuong Street, Ward 2, Phu Nhuan District, Ho Chi Minh City.</p><p><u>Note:</u> After the experience, you can receive a code from the cashier and participate in the Spin Wheel.</p><p><br></p><p>*****</p><p>Chương trình ưu đãi \"F Coffee &amp; Tea\" dành cho quý khách hàng:</p><p>\"Free upsize - Ly to không lo về giá\" tăng thể tích ly những giá không đổi.</p><p><strong>Điều kiện áp dụng:</strong></p><p>- Sản phẩm/ dịch vụ áp dụng chương trình: toàn bộ menu tại F Coffee &amp; Tea.</p><p>- Chương trình áp dụng cho khách hàng sở hữu Tier - Beginner của chiến dịch Hunting Web3 Treasure.</p><p>- Thời gian áp dụng: Từ 10/6 đến 15/7/2023.</p><p>- Địa điểm áp dụng: CN 15 Hoa Phượng, Phường 2, Quận Phú Nhuận, TP. Hồ Chí Minh</p>",
+                "banner": "https://api-qa.nft-square.io/files/ecommerce/9f12ccc0ff9949eb9cff5629c7fd0b17F Coffee & Tea.jpeg",
+                "status": 2,
+                "startTime": "2023-06-09T17:05:00",
+                "endTime": "2023-08-31T16:59:00",
+                "title": "Free upsize for all types of beverages.",
+                "type": 0
+            }
         },
         {
             "id": "a844fe71-3aaf-41d4-8ce3-a454a6005c04",
@@ -77,7 +103,33 @@
             "note": null,
             "merchantName": "F Coffee & Tea",
             "programName": "Free upsize",
-            "storeName": "15 Hoa Phuong branch"
+            "storeName": "15 Hoa Phuong branch",
+            "program": {
+                "id": "f69a89fe-4d3e-4f88-b3c2-aac5b2c5c1b7",
+                "createdDate": "2023-05-25T04:37:47.239844",
+                "updatedDate": "2023-08-01T04:46:25.636315",
+                "createdBy": null,
+                "updatedBy": null,
+                "version": 38,
+                "merchantId": "ca2c3a63-55d4-4853-948e-dceba0875f00",
+                "name": "Free upsize",
+                "code": "21493906CB41496E96B938C4730C6E94",
+                "w3wTiers": [
+                    4,
+                    3
+                ],
+                "merchantTiers": [
+                    "94bbcc25-a160-4b95-89e3-fec2dcd7a0a9"
+                ],
+                "programType": "TYPE03",
+                "desc": "<p>[Vietnamese below] F Coffee &amp; Tea offers a special promotion for our valued customers:</p><p>\"Free upsize\" which increases the cup size without changing the price.</p><p><strong>Conditions of the promotion:</strong></p><p>Applicable products/services: the entire menu at F Coffee &amp; Tea.</p><p>This promotion is available for customers who own the Tier - Beginner of the Hunting Web3 Treasure campaign.</p><p>Promotion period: From June 10th to July 30th, 2023.</p><p>Promotion location: 15 Hoa Phuong Street, Ward 2, Phu Nhuan District, Ho Chi Minh City.</p><p><u>Note:</u> After the experience, you can receive a code from the cashier and participate in the Spin Wheel.</p><p><br></p><p>*****</p><p>Chương trình ưu đãi \"F Coffee &amp; Tea\" dành cho quý khách hàng:</p><p>\"Free upsize - Ly to không lo về giá\" tăng thể tích ly những giá không đổi.</p><p><strong>Điều kiện áp dụng:</strong></p><p>- Sản phẩm/ dịch vụ áp dụng chương trình: toàn bộ menu tại F Coffee &amp; Tea.</p><p>- Chương trình áp dụng cho khách hàng sở hữu Tier - Beginner của chiến dịch Hunting Web3 Treasure.</p><p>- Thời gian áp dụng: Từ 10/6 đến 15/7/2023.</p><p>- Địa điểm áp dụng: CN 15 Hoa Phượng, Phường 2, Quận Phú Nhuận, TP. Hồ Chí Minh</p>",
+                "banner": "https://api-qa.nft-square.io/files/ecommerce/9f12ccc0ff9949eb9cff5629c7fd0b17F Coffee & Tea.jpeg",
+                "status": 2,
+                "startTime": "2023-06-09T17:05:00",
+                "endTime": "2023-08-31T16:59:00",
+                "title": "Free upsize for all types of beverages.",
+                "type": 0
+            }
         },
         {
             "id": "526f1930-7250-42e6-b659-83cdc44e1801",
@@ -102,7 +154,33 @@
             "note": null,
             "merchantName": "F Coffee & Tea",
             "programName": "Free upsize",
-            "storeName": "15 Hoa Phuong branch"
+            "storeName": "15 Hoa Phuong branch",
+            "program": {
+                "id": "f69a89fe-4d3e-4f88-b3c2-aac5b2c5c1b7",
+                "createdDate": "2023-05-25T04:37:47.239844",
+                "updatedDate": "2023-08-01T04:46:25.636315",
+                "createdBy": null,
+                "updatedBy": null,
+                "version": 38,
+                "merchantId": "ca2c3a63-55d4-4853-948e-dceba0875f00",
+                "name": "Free upsize",
+                "code": "21493906CB41496E96B938C4730C6E94",
+                "w3wTiers": [
+                    4,
+                    3
+                ],
+                "merchantTiers": [
+                    "94bbcc25-a160-4b95-89e3-fec2dcd7a0a9"
+                ],
+                "programType": "TYPE03",
+                "desc": "<p>[Vietnamese below] F Coffee &amp; Tea offers a special promotion for our valued customers:</p><p>\"Free upsize\" which increases the cup size without changing the price.</p><p><strong>Conditions of the promotion:</strong></p><p>Applicable products/services: the entire menu at F Coffee &amp; Tea.</p><p>This promotion is available for customers who own the Tier - Beginner of the Hunting Web3 Treasure campaign.</p><p>Promotion period: From June 10th to July 30th, 2023.</p><p>Promotion location: 15 Hoa Phuong Street, Ward 2, Phu Nhuan District, Ho Chi Minh City.</p><p><u>Note:</u> After the experience, you can receive a code from the cashier and participate in the Spin Wheel.</p><p><br></p><p>*****</p><p>Chương trình ưu đãi \"F Coffee &amp; Tea\" dành cho quý khách hàng:</p><p>\"Free upsize - Ly to không lo về giá\" tăng thể tích ly những giá không đổi.</p><p><strong>Điều kiện áp dụng:</strong></p><p>- Sản phẩm/ dịch vụ áp dụng chương trình: toàn bộ menu tại F Coffee &amp; Tea.</p><p>- Chương trình áp dụng cho khách hàng sở hữu Tier - Beginner của chiến dịch Hunting Web3 Treasure.</p><p>- Thời gian áp dụng: Từ 10/6 đến 15/7/2023.</p><p>- Địa điểm áp dụng: CN 15 Hoa Phượng, Phường 2, Quận Phú Nhuận, TP. Hồ Chí Minh</p>",
+                "banner": "https://api-qa.nft-square.io/files/ecommerce/9f12ccc0ff9949eb9cff5629c7fd0b17F Coffee & Tea.jpeg",
+                "status": 2,
+                "startTime": "2023-06-09T17:05:00",
+                "endTime": "2023-08-31T16:59:00",
+                "title": "Free upsize for all types of beverages.",
+                "type": 0
+            }
         }
     ],
     "total": 3
