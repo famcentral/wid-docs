@@ -110,5 +110,7 @@
 ```
 ## Notes
 
-Thông tin của những wid scan ở các cửa hàng
-
+merchantName: Tên merchant áp dụng
+programName: Tên chương trình khuyến mãi
+storeName: Tên cửa hàng áp dụng
+storeCode: Mã cửa hàng áp dụng
